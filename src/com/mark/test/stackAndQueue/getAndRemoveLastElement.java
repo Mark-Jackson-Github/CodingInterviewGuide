@@ -11,5 +11,5 @@ package com.mark.test.stackAndQueue;
  */
 public class getAndRemoveLastElement {
 
-    
+
 }
